@@ -28,3 +28,5 @@ Image: Shows Game Over when you run out of time
 Image: Shows the score. Tells you to put in initials 
 
 ![Code-Quiz Score and end of the game](https://user-images.githubusercontent.com/107437105/180132479-4813c2ca-9541-46cb-ace7-39e1af3ab381.png)
+
+Website:https://jgarcia128.github.io/Coding-Quiz/
